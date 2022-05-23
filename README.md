@@ -18,7 +18,6 @@ in directory run
  - Built with React Hooks API
  - React Router for Navigation Routing
  - Support of react-script
- - Code Splitting
 
 [Demo](https://date-admin-panel.netlify.app)
 
